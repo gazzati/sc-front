@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/sc-front/static/css/main.c30cdada.chunk.css",
-    "main.js": "/sc-front/static/js/main.55828736.chunk.js",
-    "main.js.map": "/sc-front/static/js/main.55828736.chunk.js.map",
+    "main.css": "/sc-front/static/css/main.c8a21672.chunk.css",
+    "main.js": "/sc-front/static/js/main.eb863641.chunk.js",
+    "main.js.map": "/sc-front/static/js/main.eb863641.chunk.js.map",
     "runtime-main.js": "/sc-front/static/js/runtime-main.fdceed9e.js",
     "runtime-main.js.map": "/sc-front/static/js/runtime-main.fdceed9e.js.map",
-    "static/js/2.c4036292.chunk.js": "/sc-front/static/js/2.c4036292.chunk.js",
-    "static/js/2.c4036292.chunk.js.map": "/sc-front/static/js/2.c4036292.chunk.js.map",
+    "static/js/2.36a5a77c.chunk.js": "/sc-front/static/js/2.36a5a77c.chunk.js",
+    "static/js/2.36a5a77c.chunk.js.map": "/sc-front/static/js/2.36a5a77c.chunk.js.map",
     "index.html": "/sc-front/index.html",
-    "precache-manifest.43a7b9040d905ead19efa2f751224607.js": "/sc-front/precache-manifest.43a7b9040d905ead19efa2f751224607.js",
+    "precache-manifest.166027033b3615cce5bb7ee0460c851a.js": "/sc-front/precache-manifest.166027033b3615cce5bb7ee0460c851a.js",
     "service-worker.js": "/sc-front/service-worker.js",
-    "static/css/main.c30cdada.chunk.css.map": "/sc-front/static/css/main.c30cdada.chunk.css.map",
-    "static/js/2.c4036292.chunk.js.LICENSE.txt": "/sc-front/static/js/2.c4036292.chunk.js.LICENSE.txt",
+    "static/css/main.c8a21672.chunk.css.map": "/sc-front/static/css/main.c8a21672.chunk.css.map",
+    "static/js/2.36a5a77c.chunk.js.LICENSE.txt": "/sc-front/static/js/2.36a5a77c.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/sc-front/static/media/facebook.cdf0ae9b.svg",
     "static/media/github.svg": "/sc-front/static/media/github.dbf7b3f2.svg",
     "static/media/instagram.svg": "/sc-front/static/media/instagram.ed1683c1.svg",
+    "static/media/left-arrow.svg": "/sc-front/static/media/left-arrow.e980087a.svg",
     "static/media/leftArrowIcon.svg": "/sc-front/static/media/leftArrowIcon.38f3d53c.svg",
     "static/media/preloader.svg": "/sc-front/static/media/preloader.d341c6cf.svg",
     "static/media/preloaderMini.svg": "/sc-front/static/media/preloaderMini.2b8638d1.svg",
@@ -28,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fdceed9e.js",
-    "static/js/2.c4036292.chunk.js",
-    "static/css/main.c30cdada.chunk.css",
-    "static/js/main.55828736.chunk.js"
+    "static/js/2.36a5a77c.chunk.js",
+    "static/css/main.c8a21672.chunk.css",
+    "static/js/main.eb863641.chunk.js"
   ]
 }
