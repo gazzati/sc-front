@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/social-network/static/css/main.72fd3d6f.chunk.css",
-    "main.js": "/social-network/static/js/main.269c8d29.chunk.js",
-    "main.js.map": "/social-network/static/js/main.269c8d29.chunk.js.map",
+    "main.css": "/social-network/static/css/main.51425628.chunk.css",
+    "main.js": "/social-network/static/js/main.9062546c.chunk.js",
+    "main.js.map": "/social-network/static/js/main.9062546c.chunk.js.map",
     "runtime-main.js": "/social-network/static/js/runtime-main.8a9b8e37.js",
     "runtime-main.js.map": "/social-network/static/js/runtime-main.8a9b8e37.js.map",
-    "static/js/2.b16636d3.chunk.js": "/social-network/static/js/2.b16636d3.chunk.js",
-    "static/js/2.b16636d3.chunk.js.map": "/social-network/static/js/2.b16636d3.chunk.js.map",
+    "static/js/2.bfda854e.chunk.js": "/social-network/static/js/2.bfda854e.chunk.js",
+    "static/js/2.bfda854e.chunk.js.map": "/social-network/static/js/2.bfda854e.chunk.js.map",
     "index.html": "/social-network/index.html",
-    "precache-manifest.24483e38717270de25bcae3c21f3671f.js": "/social-network/precache-manifest.24483e38717270de25bcae3c21f3671f.js",
+    "precache-manifest.acb5b57bc19655384b2d5c15172aa5f2.js": "/social-network/precache-manifest.acb5b57bc19655384b2d5c15172aa5f2.js",
     "service-worker.js": "/social-network/service-worker.js",
-    "static/css/main.72fd3d6f.chunk.css.map": "/social-network/static/css/main.72fd3d6f.chunk.css.map",
-    "static/js/2.b16636d3.chunk.js.LICENSE.txt": "/social-network/static/js/2.b16636d3.chunk.js.LICENSE.txt",
+    "static/css/main.51425628.chunk.css.map": "/social-network/static/css/main.51425628.chunk.css.map",
+    "static/js/2.bfda854e.chunk.js.LICENSE.txt": "/social-network/static/js/2.bfda854e.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/social-network/static/media/facebook.cdf0ae9b.svg",
     "static/media/github.svg": "/social-network/static/media/github.dbf7b3f2.svg",
     "static/media/instagram.svg": "/social-network/static/media/instagram.ed1683c1.svg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a9b8e37.js",
-    "static/js/2.b16636d3.chunk.js",
-    "static/css/main.72fd3d6f.chunk.css",
-    "static/js/main.269c8d29.chunk.js"
+    "static/js/2.bfda854e.chunk.js",
+    "static/css/main.51425628.chunk.css",
+    "static/js/main.9062546c.chunk.js"
   ]
 }
